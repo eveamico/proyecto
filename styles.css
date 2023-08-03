@@ -1,0 +1,21 @@
+h1 {
+    color: #32a852;
+}
+body {
+    background-color: #bce0c69c;
+}
+h2 {
+    color: brown;
+}
+#destacado {
+    color: chartreuse;
+}
+h3{
+    color: rgb(75, 75, 233);
+}
+fieldset {
+    background-color: rgba(53, 156, 240, 0.486);
+    height: 100%;
+    border-color: black;
+    border: ridge; 
+}
